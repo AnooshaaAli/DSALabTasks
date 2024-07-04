@@ -3,7 +3,7 @@
 This repository contains a collection of lab tasks and projects related to various data structures, implemented as part of my undergraduate coursework in Computer Science.
 
 ## Contents
-- [Templetes]
+- [Templates]
 - [Linked Lists]
 - [Stacks]
 - [Queues]
